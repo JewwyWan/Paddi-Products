@@ -2,7 +2,6 @@
   "schema": 1,
   "releaseTag": "apps-2026-10-08",
   "publishedOn": "2026-10-08",
-  "purpose": "公开产品页与安装包；不含源码",
   "installers": [
     {
       "product": "Paddle",
