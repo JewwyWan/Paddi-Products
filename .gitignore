@@ -1,0 +1,13 @@
+# Public product repository: installers belong in GitHub Release Assets.
+*.apk
+*.aab
+*.jks
+*.keystore
+*.key
+*.p12
+*.env
+*.db
+*.sqlite
+*.sqlite3
+**/node_modules/
+**/.gradle/

@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "releaseTag": "apps-2026-10-08",
+  "publishedOn": "2026-10-08",
+  "purpose": "公开产品页与安装包；不含源码",
+  "installers": [
+    {
+      "product": "Paddle",
+      "version": "0.3.4",
+      "code": 27,
+      "abi": "arm64-v8a",
+      "filename": "P-WS-0.3.4-27-arm64-v8a.apk",
+      "bytes": 28429471,
+      "sha256": "2bc97ba1a7101d42036aeefe6629bcb235ea5d88c28cc4a2329ff2cd4e49dc0b",
+      "officialUrl": "https://PWSET.8-210-143-238.sslip.io/downloads/P-WS-0.3.4-27-arm64-v8a.apk"
+    },
+    {
+      "product": "Paddcht",
+      "version": "0.8.2",
+      "code": 33,
+      "abi": "arm64-v8a",
+      "filename": "Paddcht-0.8.2-33-release.apk",
+      "bytes": 11490359,
+      "sha256": "ef316d14f8edc2165e729b84d7ce403ae4292d26bd1fe98ef14ded366d0c5310",
+      "officialUrl": "https://PCHT.8-210-143-238.sslip.io/downloads/Paddcht-0.8.2-33-release.apk"
+    },
+    {
+      "product": "Paddi Account",
+      "version": "0.1.10",
+      "code": 11,
+      "abi": "arm64-v8a",
+      "filename": "PaddiAccount-0.1.10-arm64-v8a.apk",
+      "bytes": 6243770,
+      "sha256": "5dc34e08263377d41713dff5a3de3e1e82c06d01d2fb20e848af5ed66294f73b",
+      "officialUrl": "https://paddi-chat.8-210-143-238.sslip.io/downloads/PaddiAccount-0.1.10-arm64-v8a.apk"
+    },
+    {
+      "product": "PaddLem",
+      "version": "0.1.7",
+      "code": 8,
+      "abi": "arm64-v8a",
+      "filename": "PaddLem-0.1.7-arm64-v8a.apk",
+      "bytes": 6191915,
+      "sha256": "f8c2c2caf64cb99791c9da9bce328d347c9c08d37ceb5b147427e1b8b003b5f8",
+      "officialUrl": "https://paddi-chat.8-210-143-238.sslip.io/downloads/PaddLem-0.1.7-arm64-v8a.apk"
+    },
+    {
+      "product": "PaddLem",
+      "version": "0.1.7",
+      "code": 8,
+      "abi": "armeabi-v7a",
+      "filename": "PaddLem-0.1.7-armeabi-v7a.apk",
+      "bytes": 6189073,
+      "sha256": "ffff0faf65555c14e58a14fd4ae1d972b25f2e053fec5f6ca040e62f4361e3d7",
+      "officialUrl": "https://paddi-chat.8-210-143-238.sslip.io/downloads/PaddLem-0.1.7-armeabi-v7a.apk"
+    },
+    {
+      "product": "PaddLem",
+      "version": "0.1.7",
+      "code": 8,
+      "abi": "x86_64",
+      "filename": "PaddLem-0.1.7-x86_64.apk",
+      "bytes": 6192576,
+      "sha256": "78dfaddb708d6813786ab009adaa482b5f29f802b1908c51ddb83d5416660e55",
+      "officialUrl": "https://paddi-chat.8-210-143-238.sslip.io/downloads/PaddLem-0.1.7-x86_64.apk"
+    },
+    {
+      "product": "PaddLem",
+      "version": "0.1.7",
+      "code": 8,
+      "abi": "universal",
+      "filename": "PaddLem-0.1.7-universal.apk",
+      "bytes": 6241988,
+      "sha256": "2d10867e5cd7696d8e64bf6c4c9d749ae274579caf68a34e48f125aaca133b64",
+      "officialUrl": "https://paddi-chat.8-210-143-238.sslip.io/downloads/PaddLem-0.1.7-universal.apk"
+    }
+  ]
+}
