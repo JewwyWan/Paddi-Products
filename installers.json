@@ -15,13 +15,13 @@
     },
     {
       "product": "Paddcht",
-      "version": "0.8.2",
-      "code": 33,
+      "version": "0.8.3",
+      "code": 34,
       "abi": "arm64-v8a",
-      "filename": "Paddcht-0.8.2-33-release.apk",
-      "bytes": 11490359,
-      "sha256": "ef316d14f8edc2165e729b84d7ce403ae4292d26bd1fe98ef14ded366d0c5310",
-      "officialUrl": "https://PCHT.8-210-143-238.sslip.io/downloads/Paddcht-0.8.2-33-release.apk"
+      "filename": "Paddcht-0.8.3-34-release.apk",
+      "bytes": 11492767,
+      "sha256": "e2010633c931e110ba901bffd871b3614f17521299d595e09e8b2ec10796a81e",
+      "officialUrl": "https://PCHT.8-210-143-238.sslip.io/downloads/Paddcht-0.8.3-34-release.apk"
     },
     {
       "product": "Paddi Account",
